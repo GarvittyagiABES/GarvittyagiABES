@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GARVIT TYAGI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="coding" width "600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0Y3E0ZDVwZHltcjFmY3RhZjZkbWcxMXdrM2l3NDB4Y2RnN25jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="center" alt="coding" width "1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0Y3E0ZDVwZHltcjFmY3RhZjZkbWcxMXdrM2l3NDB4Y2RnN25jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvittyagiabes&label=Profile%20views&color=0e75b6&style=flat" alt="garvittyagiabes" /> </p>
 
